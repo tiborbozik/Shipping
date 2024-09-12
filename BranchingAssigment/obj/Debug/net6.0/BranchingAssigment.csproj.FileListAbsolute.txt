@@ -1,0 +1,15 @@
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\bin\Debug\net6.0\BranchingAssigment.exe
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\bin\Debug\net6.0\BranchingAssigment.deps.json
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\bin\Debug\net6.0\BranchingAssigment.runtimeconfig.json
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\bin\Debug\net6.0\BranchingAssigment.dll
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\bin\Debug\net6.0\BranchingAssigment.pdb
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\obj\Debug\net6.0\BranchingAssigment.csproj.AssemblyReference.cache
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\obj\Debug\net6.0\BranchingAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\obj\Debug\net6.0\BranchingAssigment.AssemblyInfoInputs.cache
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\obj\Debug\net6.0\BranchingAssigment.AssemblyInfo.cs
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\obj\Debug\net6.0\BranchingAssigment.csproj.CoreCompileInputs.cache
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\obj\Debug\net6.0\BranchingAssigment.dll
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\obj\Debug\net6.0\refint\BranchingAssigment.dll
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\obj\Debug\net6.0\BranchingAssigment.pdb
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\obj\Debug\net6.0\BranchingAssigment.genruntimeconfig.cache
+C:\Users\monic\source\repos\BranchingAssigment\BranchingAssigment\obj\Debug\net6.0\ref\BranchingAssigment.dll
